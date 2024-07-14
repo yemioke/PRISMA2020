@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T13:25:39.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="4pozOWsnninslSdCF2p8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T13:37:57.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="F1MDoI6RJx1Hkmw0OeVt" version="24.6.5" type="github">
   <diagram name="Page-1" id="VGSq7YTU0kdFoHA4LSmV">
-    <mxGraphModel>
+    <mxGraphModel dx="1032" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Satellite Image&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="199" y="260" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="etfBgGuFYs3O8ckc3GrV-2" target="etfBgGuFYs3O8ckc3GrV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;LULC Map&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="129" y="340" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="etfBgGuFYs3O8ckc3GrV-3" target="etfBgGuFYs3O8ckc3GrV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;RUSLE Model&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="489" y="440" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="etfBgGuFYs3O8ckc3GrV-4" target="etfBgGuFYs3O8ckc3GrV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;GeoSOS-FLUS Model&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="109" y="440" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Soil erosion&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="489" y="560" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Simulated land use change&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="109" y="560" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Soil data&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="499" y="340" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-21" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="459" y="390" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.404;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="etfBgGuFYs3O8ckc3GrV-21" target="etfBgGuFYs3O8ckc3GrV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-24" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="390" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;DEM&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="389" y="340" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;NIMET data&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="619" y="340" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.412;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="etfBgGuFYs3O8ckc3GrV-1" target="etfBgGuFYs3O8ckc3GrV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="etfBgGuFYs3O8ckc3GrV-32" target="etfBgGuFYs3O8ckc3GrV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="etfBgGuFYs3O8ckc3GrV-32" target="etfBgGuFYs3O8ckc3GrV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;LULC&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="319" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.427;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="etfBgGuFYs3O8ckc3GrV-28" target="etfBgGuFYs3O8ckc3GrV-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="etfBgGuFYs3O8ckc3GrV-37" target="etfBgGuFYs3O8ckc3GrV-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Analysis and interpretation&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="273" y="670" width="281" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-38" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="210" y="610" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.458;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="etfBgGuFYs3O8ckc3GrV-38" target="etfBgGuFYs3O8ckc3GrV-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etfBgGuFYs3O8ckc3GrV-40" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Impact of LULC changes on Soil erosion&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="273" y="760" width="281" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
