@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T10:32:08.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EX7iommeEe719honr_5v" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T10:33:14.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1P2_xhvfKgBDC4TRPQfx" version="24.7.2" type="github">
   <diagram name="Page-1" id="c-Anyl1rTpejHALxn3Vc">
     <mxGraphModel dx="1032" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="92_yxZjE1uUWPtz_5pNn-28" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="395" y="835" width="40" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="92_yxZjE1uUWPtz_5pNn-29" value="&lt;div&gt;Adapted from Mack et al 2022&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1090" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
