@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T15:31:21.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="46CAyYzyt1fmSeSX5_7A" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T15:39:38.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BgkMKL00lgRc6hJkvfeT" version="24.7.3" type="github">
   <diagram name="Page-1" id="oEBxdhU5Urksgs6lqSqF">
     <mxGraphModel dx="1032" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Develop Multi objective optimization model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Develop Multi objective optimization model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="160" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Min. soil erosion&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Max. water quality&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Max. compatibility- compactness&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;max. economic return&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="240" width="200" height="150" as="geometry" />
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Objectives&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Min. soil erosion&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Max. water quality&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Max. compatibility- compactness&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;max. economic return&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="240" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Identification of Constraint such as&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Land availability&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Water resource&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="410" width="200" height="110" as="geometry" />
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Identification of Constraint such as&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Land availability&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Water resource&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="450" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eKZA_AyUCWna5zqhm3Qs-6" target="eKZA_AyUCWna5zqhm3Qs-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -19,11 +19,11 @@
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="eKZA_AyUCWna5zqhm3Qs-6" target="eKZA_AyUCWna5zqhm3Qs-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Problem formulation&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Problem formulation&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="100" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Formulating optimization problem&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;define decision variable&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;objective functions&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;constraints&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="540" width="200" height="160" as="geometry" />
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Formulating optimization problem&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Define decision variable&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Objective functions&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Constraints&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="610" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eKZA_AyUCWna5zqhm3Qs-8" target="eKZA_AyUCWna5zqhm3Qs-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -31,31 +31,31 @@
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eKZA_AyUCWna5zqhm3Qs-8" target="eKZA_AyUCWna5zqhm3Qs-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Optimization and Analysis&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Optimization and Analysis&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="100" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Selection of optimization method&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="180" width="200" height="60" as="geometry" />
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Selection of optimization method&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="180" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Application and running of optimization algorithm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="330" width="200" height="110" as="geometry" />
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Application and running of optimization algorithm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="330" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Analyze and Interpret&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;evaluate the trade off&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;optimal land allocation strategy&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;uncertainty and sensitivity&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="490" width="200" height="170" as="geometry" />
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Analyze and Interpret&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Evaluate the trade off&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Optimal land allocation strategy&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Uncertainty and sensitivity&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="490" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eKZA_AyUCWna5zqhm3Qs-13" target="eKZA_AyUCWna5zqhm3Qs-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Review of relevant literature on land use allocation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="598.75" y="180" width="180" height="60" as="geometry" />
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Review of relevant literature on land use allocation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="598.75" y="180" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Strategic planning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Strategic planning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="598.75" y="290" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Implementation/ Enforcement&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-16" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Implementation/ Enforcement&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="598.75" y="415" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Monitoring and Evaluation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-17" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Monitoring and Evaluation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="598.75" y="519.5" width="170" height="130.5" as="geometry" />
         </mxCell>
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-18" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Phase I&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -68,13 +68,13 @@
           <mxGeometry x="598.75" y="50" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-24" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="390" width="435" height="40" as="geometry" />
+          <mxGeometry x="-202.5" y="442.5" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-26" value="" style="line;strokeWidth=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="47.5" y="300" width="37.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-27" value="" style="line;strokeWidth=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="47.5" y="430" width="37.5" height="10" as="geometry" />
+          <mxGeometry x="48.75" y="510" width="37.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-28" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="122.5" y="385" width="407.5" height="27.5" as="geometry" />
@@ -85,7 +85,7 @@
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-32" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="403.75" y="368.75" width="360" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="eKZA_AyUCWna5zqhm3Qs-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Framework development&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eKZA_AyUCWna5zqhm3Qs-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Framework development&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="603.75" y="100" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKZA_AyUCWna5zqhm3Qs-36" value="" style="line;strokeWidth=1;html=1;" parent="1" vertex="1">
