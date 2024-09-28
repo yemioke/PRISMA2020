@@ -115,7 +115,7 @@
           <mxGeometry x="429" y="780" width="30" height="340" as="geometry" />
         </mxCell>
         <mxCell id="NQC0zaJRsaxivw5q0Agu-61" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;TN and TP in 2014, and 2024&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="560" y="600" width="130" height="40" as="geometry" />
+          <mxGeometry x="525" y="565" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NQC0zaJRsaxivw5q0Agu-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NQC0zaJRsaxivw5q0Agu-64" target="NQC0zaJRsaxivw5q0Agu-66">
           <mxGeometry relative="1" as="geometry" />
@@ -196,6 +196,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="443.5" y="950" as="sourcePoint" />
             <mxPoint x="443.5" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQC0zaJRsaxivw5q0Agu-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="577.5" y="662.5" as="sourcePoint" />
+            <mxPoint x="607.5" y="662.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
