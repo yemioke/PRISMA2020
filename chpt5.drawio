@@ -7,28 +7,28 @@
         <mxCell id="UsSSDCCTRIZroGB58E2Q-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-1" target="UsSSDCCTRIZroGB58E2Q-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-1" value="AHP Technique" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;AHP Technique&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UsSSDCCTRIZroGB58E2Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-2" target="UsSSDCCTRIZroGB58E2Q-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-2" value="Satellite Image (SDGSAT-1 2024)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Satellite Image (SDGSAT-1 2024)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UsSSDCCTRIZroGB58E2Q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-4" target="UsSSDCCTRIZroGB58E2Q-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-4" value="Expert evaluation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Expert evaluation&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="475" y="160" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UsSSDCCTRIZroGB58E2Q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-5" target="UsSSDCCTRIZroGB58E2Q-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-5" value="Pairwise comparison of scales/weight" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Pairwise comparison of scales/weight&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-6" target="UsSSDCCTRIZroGB58E2Q-4">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-6" target="UsSSDCCTRIZroGB58E2Q-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="180" as="targetPoint" />
             <Array as="points">
@@ -37,68 +37,68 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-8" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UsSSDCCTRIZroGB58E2Q-7">
-          <mxGeometry x="0.0822" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-8" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#000000;fontSize=12;fontStyle=1" vertex="1" connectable="0" parent="UsSSDCCTRIZroGB58E2Q-7">
+          <mxGeometry x="0.0822" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UsSSDCCTRIZroGB58E2Q-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-6" target="UsSSDCCTRIZroGB58E2Q-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-39" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UsSSDCCTRIZroGB58E2Q-38">
-          <mxGeometry x="-0.075" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-39" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1" vertex="1" connectable="0" parent="UsSSDCCTRIZroGB58E2Q-38">
+          <mxGeometry x="-0.075" y="-17" relative="1" as="geometry">
+            <mxPoint x="17" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-6" value="CR &amp;lt; 10 %" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;CR &amp;lt; 10 %&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="475" y="300" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UsSSDCCTRIZroGB58E2Q-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-9" target="UsSSDCCTRIZroGB58E2Q-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-9" value="Determine weights" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Determine weights&lt;/font&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="467.5" y="390" width="225" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UsSSDCCTRIZroGB58E2Q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-10" target="UsSSDCCTRIZroGB58E2Q-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-10" value="Weighted Linear Combination" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Weighted Linear Combination&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="460" y="480" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-11" value="Soil degradation Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Soil degradation Map&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="565" width="245" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UsSSDCCTRIZroGB58E2Q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-14" target="UsSSDCCTRIZroGB58E2Q-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-14" value="Image Preprocessing" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Image Preprocessing&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="75" y="160" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UsSSDCCTRIZroGB58E2Q-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-15" target="UsSSDCCTRIZroGB58E2Q-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-15" value="Image Analysis" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Image Analysis&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UsSSDCCTRIZroGB58E2Q-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UsSSDCCTRIZroGB58E2Q-16" target="UsSSDCCTRIZroGB58E2Q-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="240" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-18" value="CI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-18" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;CI&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4DFF59;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-19" value="NDVI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-19" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;NDVI&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF291A;" vertex="1" parent="1">
           <mxGeometry x="100" y="340" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-20" value="GSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-20" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;GSI&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="100" y="410" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-21" value="NDISI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;NDISI&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000099;" vertex="1" parent="1">
           <mxGeometry x="240" y="410" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UsSSDCCTRIZroGB58E2Q-22" value="MBSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsSSDCCTRIZroGB58E2Q-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;MBSI&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0080;" vertex="1" parent="1">
           <mxGeometry x="170" y="380" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
