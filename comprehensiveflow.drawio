@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Page-1" id="yBzzcA3sVIvOBAHm0n21">
-    <mxGraphModel dx="1111" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="550" width="230" x="30" y="40" as="geometry" />
         </mxCell>
         <mxCell id="4IK9mmYLuqegXiaKue0g-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="1100" width="230" x="310" y="40" as="geometry" />
+          <mxGeometry height="1090" width="230" x="310" y="40" as="geometry" />
         </mxCell>
         <mxCell id="4IK9mmYLuqegXiaKue0g-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="720" width="230" x="570" y="40" as="geometry" />
@@ -16,67 +16,49 @@
         <mxCell id="4IK9mmYLuqegXiaKue0g-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Context and drivers&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="190" x="47.5" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Strategic Pillars&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="190" x="325.5" y="50" as="geometry" />
+        <mxCell id="4IK9mmYLuqegXiaKue0g-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Strategic Pillars&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="164.5" x="342.75" y="50" as="geometry" />
         </mxCell>
         <mxCell id="4IK9mmYLuqegXiaKue0g-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="290" width="210" x="321" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Ecological Inegrity&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="180" x="337.5" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Soil health restoration&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Biodiversity conservation&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Erosion control and restoration&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Water resources management&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Climate resilient agroecology&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="195" width="196" x="328" y="190" as="geometry" />
-        </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Pillar I&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="180" x="336" y="110" as="geometry" />
+        <mxCell id="4IK9mmYLuqegXiaKue0g-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="&lt;font style=&quot;color: rgb(255, 51, 51); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Pillar I&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="350" y="110" as="geometry" />
         </mxCell>
         <mxCell id="4IK9mmYLuqegXiaKue0g-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="360" width="206" x="323" y="405" as="geometry" />
+          <mxGeometry height="355" width="206" x="323" y="405" as="geometry" />
         </mxCell>
         <mxCell id="4IK9mmYLuqegXiaKue0g-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="340" width="207.5" x="322.5" y="780" as="geometry" />
+          <mxGeometry height="340" width="210" x="320" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Pillar II&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="4IK9mmYLuqegXiaKue0g-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="&lt;font style=&quot;font-size: 18px; color: rgb(255, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Pillar II&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="180" x="336" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Governance and Institutional capacity&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="180" x="340" y="450" as="geometry" />
+        <mxCell id="4IK9mmYLuqegXiaKue0g-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 18px; color: rgb(255, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Pillar III&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="350" y="785" as="geometry" />
         </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Harmonize statutory and customary system&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Strengthen land use planning and enforcement.&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Anti-corruption and transparency measure&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Decentralized but coordinated authority&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="230" width="191" x="336" y="530" as="geometry" />
+        <mxCell id="4IK9mmYLuqegXiaKue0g-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Integration Mechanism&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="600" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Pillar III&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="180" x="335" y="785" as="geometry" />
+        <mxCell id="4IK9mmYLuqegXiaKue0g-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Multi-stakeholder platform&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Government-community-private sector forum&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Co-design of intervention&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="205" x="590" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Economic and Tenure security&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="180" x="336" y="820" as="geometry" />
-        </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Secure tenure rights.&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Access to credit and Insurance.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Market linkages for sustainable products&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Livelihood diversification&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Risk-sharing mechanisms&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="230" width="191" x="334.5" y="880" as="geometry" />
-        </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Integration Mechanism&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="190" x="590" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Multi-stakeholder platform&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Government-community-private sector forum&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Co-design of intervention&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="205" x="590" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Joint monitoring and Learning&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Shared indicators across pillars&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Real time data dashboard&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="4IK9mmYLuqegXiaKue0g-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Joint monitoring and Learning&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Shared indicators across pillars&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Real time data dashboard&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="205" x="590" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Adaptive policy coordination&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Iterative policy review cycles&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Evidence based adjustment.&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="4IK9mmYLuqegXiaKue0g-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Adaptive policy coordination&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Iterative policy review cycles&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Evidence based adjustment.&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="205" x="590" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Knowledge co-production&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Research-practice-policy and nexus.&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Regional learning networks.&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="4IK9mmYLuqegXiaKue0g-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Knowledge co-production&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Research-practice-policy and nexus.&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Regional learning networks.&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="205" x="590" y="600" as="geometry" />
         </mxCell>
         <mxCell id="4IK9mmYLuqegXiaKue0g-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="360" width="220" x="580" y="780" as="geometry" />
+          <mxGeometry height="350" width="220" x="580" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Sustainable outcomes&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="197.5" x="590" y="790" as="geometry" />
+        <mxCell id="4IK9mmYLuqegXiaKue0g-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Sustainable outcomes&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="187.5" x="600" y="790" as="geometry" />
         </mxCell>
-        <mxCell id="4IK9mmYLuqegXiaKue0g-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Enhanced data availability.&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Strengthened local institutions&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Sustainable land productivity&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Improved policy coordination&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Increase SLM practice adoption&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Increased household income diversity&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Restored ecosystem&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="4IK9mmYLuqegXiaKue0g-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Enhanced data availability.&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Strengthened local institutions&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Sustainable land productivity&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Improved policy coordination&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Increase SLM practice adoption&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Increased household income diversity&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Restored ecosystem&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="285" width="200" x="590" y="835" as="geometry" />
         </mxCell>
         <mxCell id="4IK9mmYLuqegXiaKue0g-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Environmental pressure&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Climate change&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Degradation&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
@@ -92,7 +74,7 @@
           <mxGeometry height="110" width="182.5" x="57.5" y="460" as="geometry" />
         </mxCell>
         <mxCell id="4IK9mmYLuqegXiaKue0g-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="420" width="220" x="32.5" y="620" as="geometry" />
+          <mxGeometry height="450" width="220" x="32.5" y="620" as="geometry" />
         </mxCell>
         <mxCell id="4IK9mmYLuqegXiaKue0g-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Adaptive Feeback&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="190" x="50" y="630" as="geometry" />
@@ -103,8 +85,17 @@
         <mxCell id="3YlNvtC4jDkECHiACDTE-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Joint review process&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Annual Stakeholder forum&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="202.5" x="43.75" y="830" as="geometry" />
         </mxCell>
-        <mxCell id="3YlNvtC4jDkECHiACDTE-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Joint review process&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Annual Stakeholder forum&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="202.5" x="40" y="932.5" as="geometry" />
+        <mxCell id="3YlNvtC4jDkECHiACDTE-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Adaptive adjustment&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Policy refinement&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Resource allocation&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Intervention retargeting&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="127.5" width="202.5" x="40" y="932.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3YlNvtC4jDkECHiACDTE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Ecological Inegrity&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Soil health restoration&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Biodiversity conservation&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Erosion control and restoration&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Water resources management&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Climate resilient agroecology&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="195" x="330.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3YlNvtC4jDkECHiACDTE-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Governance and Institutional capacity&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Harmonize statutory and customary system&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Strengthen land use planning and enforcement.&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Anti-corruption and transparency measure&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Decentralized but coordinated authority&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="300" width="195" x="328.75" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="3YlNvtC4jDkECHiACDTE-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Economic and Tenure security&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Secure tenure rights.&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Access to credit and Insurance.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Market linkages for sustainable products&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Livelihood diversification&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Risk-sharing mechanisms&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="199" x="324.75" y="820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
